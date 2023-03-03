@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    background-image: url("images/mobile.png");
+
+}
+
+.card-c {
+    display: flex;
+    padding: 8px 0;
+    width: 100%;
+    gap: 12px;
+    align-items: center;
+  }
+  
+  .card-c .canopy {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Poppins", sans-serif;
+    font-style: normal;
+    line-height: 16px;
+    color: #344563;
+    font-size: 13px;
+  }
