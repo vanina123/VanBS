@@ -1,12 +1,10 @@
 <a name="readme-top"></a>
 
-
 <div align="center">
 
   <h3><b>Van Bootstrap project</b></h3>
 
 </div>
-
 
 # 📗 Table of Contents
 
@@ -30,16 +28,13 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-
 # 📖 [Van Bootstrap project] <a name="about-project"></a>
-
 
 **[Van Bootstrap project]** is a project which show my ability to use bootstrap framework
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>HTML</summary>
@@ -66,11 +61,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-
 - **[HTML]**
 - **[CSS]**
 - **[Bootstrap]**
-
 
 <!-- - **[key_feature_3]** -->
 
@@ -117,8 +110,8 @@ A web browser for live Demo
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone https://github.com/vanina123/VanBS
+cd my-folder
+git clone https://github.com/vanina123/VanBS
 
 <!-- ### Install
 
@@ -179,20 +172,15 @@ Example:
 
 👤 **Author1**
 
--  GitHub: [@githubhandle](https://github.com/vanina123)
+- GitHub: [@githubhandle](https://github.com/vanina123)
 - Twitter: [@twitterhandle](https://twitter.com/DufeVanina)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/larissa-vanina-dufe-407a2b25a)
 
-
- 
 👤 **Author2**
 
- <!-- - GitHub: [@githubhandle](https://github.com/brightbrain20)
-- Twitter: [@twitterhandle](https://twitter.com/BrightEzeamaka)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bright-ezeamaka-752837237/)  -->
-
-
-
+- GitHub: [@dagmawiii03](https://github.com/dagmawiii03)
+- Twitter: [@twitterhandle](https://twitter.com/dag_mawi111)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/dagmawi-yohannes-b36488236)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -209,7 +197,7 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing">brightbrain20</a> 
+## 🤝 Contributing <a name="contributing">brightbrain20</a>
 
 Contributions, issues, and feature requests are welcome!
 
@@ -221,7 +209,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 If you like this project kindly support by sharing and feel free to add comments on what more to add.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -230,9 +217,7 @@ If you like this project kindly support by sharing and feel free to add comments
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-
-I would like to thank Mircoverse organisation for giving me such an opportunity to study and also my teammates 
+I would like to thank Mircoverse organisation for giving me such an opportunity to study and also my teammates
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
