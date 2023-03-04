@@ -179,7 +179,7 @@ Example:
 👤 **Author2**
 
 - GitHub: [@dagmawiii03](https://github.com/dagmawiii03)
-- Twitter: [@twitterhandle](https://twitter.com/dag_mawi111)
+- Twitter: [@dag_mawi111](https://twitter.com/dag_mawi111)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/dagmawi-yohannes-b36488236)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -197,7 +197,7 @@ Example:
 
 <!-- CONTRIBUTING -->
 
-## 🤝 Contributing <a name="contributing">brightbrain20</a>
+## 🤝 Contributing <a name="contributing">vanina123</a>
 
 Contributions, issues, and feature requests are welcome!
 
